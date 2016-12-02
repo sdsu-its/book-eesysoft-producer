@@ -8,7 +8,7 @@ EesyProducer allows you to add context-sensitive custom messages, hints, web lin
 
 **NOTE:** Major updates to the staging server may revert all Eesysoft settings on staging to the settings on the production server! This means none of the staging messages will work; only messages from production will display.
 
-Settings are located in the Eesysoft Building Block. Easysoft Connector =&gt; Settings =&gt; URL: [https://sdsustaging.eesysoft.com](https://sdsustaging.eesysoft.com) =&gt; Key: **431s4ndiegostaging** =&gt; Support Tab: ON
+Settings are located in the Eesysoft Building Block. Easysoft Connector => Settings => URL: [https://sdsustaging.eesysoft.com](https://sdsustaging.eesysoft.com) => Key: **<<KEY>>** Support Tab: ON
 
 ◆ **Get Started:** Login to Eesysoft Producer by clicking on the software icon.
 
@@ -57,11 +57,11 @@ On-demand items are shown in the slide-out tab (the Support Dashboard tab) on ri
 
 To use the HTML embedded code, go to YouTube, select the video you would like to share, and copy the embed code (not the URL!).
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jN183h4Uz6w&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+<iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jN183h4Uz6w&quot; frameborder=&quot;0&quot; allowfullscreen></iframe>
 
 Paste the code into the HTML code field in the Embedded content help item. To show the video correctly, you must change the ‘width’ and ‘height’ to 100%.
 
-&lt;iframe **width=&quot;100%&quot; height=&quot;100%&quot;** src=&quot;https://www.youtube.com/embed/jN183h4Uz6w&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+<iframe **width=&quot;100%&quot; height=&quot;100%&quot;** src=&quot;https://www.youtube.com/embed/jN183h4Uz6w&quot; frameborder=&quot;0&quot; allowfullscreen></iframe>
 
 **2\. Capture:** Screen capture (Context)
 
