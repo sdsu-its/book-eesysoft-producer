@@ -149,7 +149,7 @@ In this part, you will connect the screen capture (element that needs help or mo
 The Hint and Systray message will, by default, always appear pro-actively; while the File, Link, and Video are always in the on-demand slide-out tab (the Support Dashboard). The Popup message will require setting the mode.
 
 1.  Click on the popup message and the color will change from red highlight to blue.
-2.  There are 3 “ball shaped icons next to the “connect pin” which should now be active (colored)
+2.  There are 3 “ball" shaped icons next to the “connect pin” which should now be active (colored)
 3.  You can hover over the balls to see your choices or use the HelpItem menu to “Set Mode.”
 4.  There are 3 options:
 
@@ -157,7 +157,7 @@ The Hint and Systray message will, by default, always appear pro-actively; while
 *   Provide the help item pro-actively once (orange)
 *   Provide the help item pro-actively each time a user hovers over the button (red)
 
-**3.3\. Additional properties for help items (**We are currently not using these; will update later
+**3.3 Additional properties for help items** (We are currently not using these; will update later
 
 The following options are available for help items:
 
