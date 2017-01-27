@@ -8,7 +8,7 @@ EesyProducer allows you to add context-sensitive custom messages, hints, web lin
 
 **NOTE:** Major updates to the staging server may revert all EesySoft settings on staging to the settings on the production server! This means none of the staging messages will work; only messages from production will display.
 
-Settings are located in the Eesysoft Building Block. Easysoft Connector => Settings => URL: **<<https://xxx>>** => Key: **<<KEY>>** Support Tab: ON
+Settings are located in the Eesysoft Building Block. Easysoft Connector => Settings => URL: https://xxx  => Key: xxx => Support Tab: ON
 
 ◆ **Get Started:** Login to Eesysoft Producer by clicking on the software icon.
 
