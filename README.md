@@ -2,11 +2,11 @@
 
 EesyProducer (Messaging)
 
-Eesysoft support = support@eesysoft.com
+EesySoft support = support@eesysoft.com
 
 EesyProducer allows you to add context-sensitive custom messages, hints, web links, and resources into Blackboard. You can target specific departments, courses, or users. Eesysoft is currently a windows-based software which must be downloaded and installed on a PC or Mac running Windows. (This is being changed to a web-based application.)
 
-**NOTE:** Major updates to the staging server may revert all Eesysoft settings on staging to the settings on the production server! This means none of the staging messages will work; only messages from production will display.
+**NOTE:** Major updates to the staging server may revert all EesySoft settings on staging to the settings on the production server! This means none of the staging messages will work; only messages from production will display.
 
 Settings are located in the Eesysoft Building Block. Easysoft Connector => Settings => URL: [https://sdsustaging.eesysoft.com](https://sdsustaging.eesysoft.com) => Key: **<<KEY>>** Support Tab: ON
 
