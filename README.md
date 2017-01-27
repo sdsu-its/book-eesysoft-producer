@@ -57,11 +57,11 @@ On-demand items are shown in the slide-out tab (the Support Dashboard tab) on ri
 
 To use the HTML embedded code, go to YouTube, select the video you would like to share, and copy the embed code (not the URL!).
 
+```
 <iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jN183h4Uz6w&quot; frameborder=&quot;0&quot; allowfullscreen></iframe>
+```
 
 Paste the code into the HTML code field in the Embedded content help item. To show the video correctly, you must change the ‘width’ and ‘height’ to 100%.
-
-<iframe **width=&quot;100%&quot; height=&quot;100%&quot;** src=&quot;https://www.youtube.com/embed/jN183h4Uz6w&quot; frameborder=&quot;0&quot; allowfullscreen></iframe>
 
 **2\. Capture:** Screen capture (Context)
 
